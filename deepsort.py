@@ -1,6 +1,6 @@
 import collections
 
-#t
+
 def deep_sorted(x: any) -> str:
     if isinstance(x, dict):
         sorted_items = []
